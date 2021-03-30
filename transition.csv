@@ -1,0 +1,35 @@
+old,new
+N\(UniMod\:7\),\[Deamidation\]N
+Q\(UniMod\:7\),\[Deamidation\]Q
+C\(UniMod\:4\),\[Carbamidomethyl\]C
+M\(UniMod\:35\),\[Oxidation\]M
+C\[\+57\],\[Carbamidomethyl\]C
+N\[\+1\],\[Deamidation\]N
+Q\[\+1\],\[Deamidation\]Q
+M\[\+16\],\[Oxidation\]M
+\[57.021\(C\)\]C,\[Carbamidomethyl\]C
+\[-18.011\(E\)\]E,\[Dehydration\]E
+\[-17.027\(Q\)\]Q,\[Deamidation\]Q
+\[42.011\(N-term\)\],\[Acetyl N-term\]
+\[57.021\(C\)\]C,\[Carbamidomethyl\]C
+\[15.995\(M\)\]M,\[Oxidation\]M
+\[0.984\(N\)\]N,\[Deamidation\]N
+\[0.984\(Q\)\]Q,\[Deamidation\]Q
+N\[Dea\],\[Deamidation\]N
+C\[CAM\],\[Carbamidomethyl\]C
+Q\[Dea\],\[Deamidation\]Q
+M\[Oxi\],\[Oxidation\]M
+C\[\+57.02146\],\[Carbamidomethyl\]C
+Q\[\+0.98402\],\[Deamidation\]Q
+N\[\+0.98402\],\[Deamidation\]N
+M\[\+15.99492\],\[Oxidation\]M
+Q\[Deamidated\],\[Deamidation\]Q
+N\[Deamidated\],\[Deamidation\]N
+C\[Carbamidomethyl\],\[Carbamidomethyl\]C
+M\[Oxidation\],\[Oxidation\]M
+N\(UniMod \: 7\),\[Deamidation\]N
+Q\(UniMod \: 7\),\[Deamidation\]Q
+C\(UniMod \: 4\),\[Carbamidomethyl\]C
+M\(UniMod \: 35\),\[Oxidation\]M
+C\[Carbamidomethyl \(C\)\],\[Carbamidomethyl\]C
+M\[Oxidation \(M\)\],\[Oxidation\]M
